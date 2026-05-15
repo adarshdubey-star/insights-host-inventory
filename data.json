@@ -1,0 +1,75 @@
+{
+  "year": "2026",
+  "quarters": {
+    "Q2": {
+      "quarter": "Q2",
+      "updated": "2026-05-15",
+      "stale": {
+        "period": "2026-04-01 to 2026-05-15",
+        "data": {
+          "total": 0,
+          "merged": 0,
+          "closed_no_merge": 0,
+          "still_open": 0,
+          "bot_closed": 0,
+          "median_ttm": null,
+          "median_ttfr": null,
+          "avg_ttfr": null,
+          "pct_reviewed_24h": null,
+          "no_review_24h": 0,
+          "open_15d": 0
+        }
+      },
+      "review": {
+        "period": "2026-04-01 to 2026-05-15",
+        "data": {
+          "total": 0,
+          "merged": 0,
+          "closed_no_merge": 0,
+          "still_open": 0,
+          "bot_closed": 0,
+          "median_ttm": null,
+          "median_ttfr": null,
+          "avg_ttfr": null,
+          "pct_reviewed_24h": null,
+          "no_review_24h": 0,
+          "open_15d": 0
+        }
+      }
+    }
+  },
+  "baseline": {
+    "stale": {
+      "period": "2025-11-19 to 2026-02-16",
+      "data": {
+        "total": 0,
+        "merged": 0,
+        "closed_no_merge": 0,
+        "still_open": 0,
+        "bot_closed": 0,
+        "median_ttm": null,
+        "median_ttfr": null,
+        "avg_ttfr": null,
+        "pct_reviewed_24h": null,
+        "no_review_24h": 0,
+        "open_15d": 0
+      }
+    },
+    "review": {
+      "period": "2026-01-01 to 2026-03-31",
+      "data": {
+        "total": 0,
+        "merged": 0,
+        "closed_no_merge": 0,
+        "still_open": 0,
+        "bot_closed": 2,
+        "median_ttm": null,
+        "median_ttfr": null,
+        "avg_ttfr": null,
+        "pct_reviewed_24h": null,
+        "no_review_24h": 0,
+        "open_15d": 0
+      }
+    }
+  }
+}
