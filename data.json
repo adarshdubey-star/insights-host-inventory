@@ -3,9 +3,9 @@
   "quarters": {
     "Q2": {
       "quarter": "Q2",
-      "updated": "2026-05-26",
+      "updated": "2026-05-27",
       "stale": {
-        "period": "2026-04-01 to 2026-05-26",
+        "period": "2026-04-01 to 2026-05-27",
         "data": {
           "total": 0,
           "merged": 0,
@@ -21,7 +21,7 @@
         }
       },
       "review": {
-        "period": "2026-04-01 to 2026-05-26",
+        "period": "2026-04-01 to 2026-05-27",
         "data": {
           "total": 0,
           "merged": 0,
